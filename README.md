@@ -25,10 +25,12 @@ Created on Saturday
   this file has some 'variable' inline code.
 
   ![alt	text](http://picsum.photos/200/200)
+
+  
   some line with text.	
   >description about this picture
 
-  | emp_name || emp_id | joining_date |
+  | heading || header | head |
   | --- | --- | ---|
   | Raju | 2011 | 7th Jan |
   | Puja | 2990 | 9th July |
