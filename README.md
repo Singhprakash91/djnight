@@ -27,13 +27,14 @@ Created on Saturday
   this file has some 'variable' inline code.
 
 
-  ```html
+```html
  <p> A paragraph for example </p>
-
-  ```
+ 
+ ```
 
 
   ![alt text](http://picsum.photos/200/200)
+  
   some line with text.	
   >description about this picture
 
@@ -45,9 +46,4 @@ Created on Saturday
   | Puja | 2990 | 9th July |
 
   This is being *created* on **Sunday** ~~Monday~~.
-
-
-
-
-
 
