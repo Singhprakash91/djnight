@@ -33,14 +33,13 @@ Created on Saturday
  ```
 
 
-  ![alt text](http://picsum.photos/200/200)
-  
+! [alt text](http://picsum.photos/200/200)
+ 
   some line with text.	
   >description about this picture
 
 
-
-  | emp_name | emp_num | joining |
+  | empname | empnum | joining |
   | --- | --- | ---|
   | Raju | 2011 | 7th Jan |
   | Puja | 2990 | 9th July |
