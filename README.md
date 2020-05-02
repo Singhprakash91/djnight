@@ -33,7 +33,7 @@ Created on Saturday
  ```
 
 
-![alt text](http://www.bhmpics.com/walls/yami_gautam_smiley_face-wide.jpg/400/400)
+![alt text](http://www.bhmpics.com/walls/yami_gautam_smiley_face-wide.jpg/300/300)
  
   some line with text.	
   >description about this picture
