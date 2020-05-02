@@ -24,7 +24,7 @@ Created on Saturday
   [this is the description link](https://github.com/Singhprakash91/djnight)
 
 
-  this file has some 'variable' inline code.
+  this file has some `variable` inline code.
 
 
 ```html
